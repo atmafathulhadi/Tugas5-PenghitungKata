@@ -90,7 +90,7 @@ Screenshot Hasil Program:
 ![SS](https://github.com/atmafathulhadi/Tugas5-PenghitungKata/blob/main/SS.png)
 
 
-6. Indikator Penilaian
+### 6. Indikator Penilaian
 | No  | Komponen         |  Persentase  |
 | :-: | ---------------- |   :-----:    |
 |  1  | Komponen GUI     |    20%       |
@@ -99,7 +99,8 @@ Screenshot Hasil Program:
 |  4  | Constructor      |    15%       |
 |  5  | Memenuhi Variasi |    30%       |
 |     | **TOTAL**        | 100%         |
-7. Cara Menjalankan Program
+
+### 7. Cara Menjalankan Program
 Buka program di IDE seperti NetBeans atau Eclipse.
 Jalankan program dan masukkan teks pada kolom "Maukkan Kata".
 Klik tombol "Simpan" untuk menyimpan hasil ke dalam file.
